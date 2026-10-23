@@ -1,139 +1,159 @@
-<!--
-AQ TECHNOLOGY — PROFILE README
-Brand palette:
-  Technical Black  #08090B
-  Deep Maroon      #7D1835
-  Pearl White      #F5F5F2
-  Silver Gray      #C8CBD0
+# Ahmed Qusailah
 
-Before publishing:
-1. Replace every [ADD ...] placeholder.
-2. Only enable the banner image after uploading your own banner asset.
-3. Project repositories and demos are intentionally not linked until verified.
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=E05270&center=true&vCenter=true&width=650&lines=Software+Developer;IT+Student;Building+Ideas+Into+Technology;Learn.+Build.+Improve." alt="Typing animation" />
+</p>
 
-<div align="center">
-
-<!-- OPTIONAL CUSTOM BANNER
-Upload a banner to this profile repository (recommended path: assets/aq-profile-banner.png),
-then uncomment the next line and keep the path accurate.
-
-<img src="assets/aq-profile-banner.png" alt="AQ Technology — black and deep-maroon technical banner" width="100%" />
--->
-
-<img src="https://img.shields.io/badge/AQ_TECHNOLOGY-08090B?style=for-the-badge&labelColor=7D1835&color=08090B" alt="AQ Technology" />
-
-# Ahmed Saleh Qusailah
-
-### Building ideas into technology — one deliberate line at a time.
-
-**IT Student · Software Developer · Technology Enthusiast**
-
-Yemen · Building with curiosity, practical projects, and a focus on useful software.
-
-[GitHub](https://github.com/aszq0) · [Portfolio](ADD_PORTFOLIO_URL) · [LinkedIn](ADD_LINKEDIN_URL)
-
-</div>
+<p align="center">
+  <a href="https://github.com/aszq0">
+    <img src="https://img.shields.io/badge/GitHub-aszq0-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-8B1E3F?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Yemen-252A34?style=for-the-badge" alt="Location"/>
+</p>
 
 ---
 
-## 01 / The person behind the code
+## `01` — About Me
 
-I’m an Information Technology student interested in turning ideas into practical digital products. I learn by exploring technologies, building projects, solving problems, and improving the way software is designed and developed.
+I'm an IT student and aspiring software developer interested in turning ideas into practical digital solutions.
 
-My focus is on creating software that is useful, maintainable, and thoughtfully built — from application interfaces and backend services to data and system design.
+I enjoy exploring technologies, developing applications, solving technical problems, and continuously improving my programming skills through hands-on projects.
 
-I’m still learning, and I treat every project as an opportunity to strengthen the fundamentals.
+- **Currently:** Studying Information Technology and developing my software engineering skills.
+- **Interested in:** Application development, backend systems, databases, and software architecture.
+- **My approach:** Learn the fundamentals, build real projects, improve through practice.
+- **Based in:** Yemen.
 
-## 02 / Technology ecosystem
+> I believe progress comes from consistency, curiosity, and the willingness to keep building.
 
-The tools below reflect technologies I have explored or used in coursework and personal projects. They are not intended to imply expert-level proficiency.
+---
 
-**Languages**
+## `02` — Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,php,dart,js" alt="C++, Python, PHP, Dart, and JavaScript" />
-</p>
-
-**Web and application development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,laravel,flutter" alt="HTML, CSS, Laravel, and Flutter" />
-</p>
-
-**Data, development tools, and workflow**
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL, Git, GitHub, and Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,php,js,dart" alt="Programming languages" />
 </p>
 
-## 03 / Selected work
+### Frameworks & Development
 
-These are projects and concepts I have explored. Repository links, demos, and implementation status will be added only when the relevant public resources are available.
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,html,css" alt="Frameworks and web technologies" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,visualstudio" alt="Databases and developer tools" />
+</p>
+
+*These icons represent technologies I work with or explore; proficiency varies by technology.*
+
+---
+
+## `03` — Selected Projects
 
 ### Smart Building Platform
-A construction-sector platform concept intended to connect clients with building-material suppliers and engineering services. The proposed direction includes material-price discovery, supplier locations, and assistance with estimating quantities from building measurements or plans.
 
-- **Status:** Project concept / development planning
-- **Planned stack:** Flutter, Laravel REST API, MySQL, Google Maps API
-- **Repository:** [ADD_SMART_BUILDING_REPOSITORY_URL]
-- **Demo:** Not available yet
+A planned digital platform designed to connect construction clients with building-material suppliers and engineering offices.
 
-### Khadamati
-A services-platform project focused on helping people discover and access services through a digital product.
+**Planned features**
+- Browse construction materials and compare prices.
+- Discover suppliers and their locations.
+- Explore engineering services.
+- Investigate material quantity estimation from building measurements or plans.
 
-- **Status:** Project in progress / implementation status to be updated
-- **Technology:** [ADD_CONFIRMED_KHADAMATI_STACK]
-- **Repository:** [ADD_KHADAMATI_REPOSITORY_URL]
-- **Demo:** [ADD_KHADAMATI_DEMO_URL_OR_REMOVE_THIS_LINE]
+**Planned technology:** Flutter · Laravel REST API · MySQL · Google Maps API
 
-### Rashfah
-A coffee-related application concept focused on presenting a polished, convenient digital experience for coffee customers.
-
-- **Status:** Project in progress / implementation status to be updated
-- **Technology:** Flutter and [ADD_CONFIRMED_BACKEND_OR_AUTH_TOOLS]
-- **Repository:** [ADD_RASHFAH_REPOSITORY_URL]
-- **Demo:** [ADD_RASHFAH_DEMO_URL_OR_REMOVE_THIS_LINE]
-
-> Project descriptions distinguish planned direction from confirmed implementation. Update the status and technology details as each project evolves.
-
-## 04 / Currently exploring
-
-- **Flutter:** structuring mobile applications and refining user experiences.
-- **Laravel and REST APIs:** organizing backend logic and connecting applications to services.
-- **Database design:** modeling data and building clear, consistent schemas.
-- **Software engineering:** requirements analysis, UML, ER diagrams, and system architecture.
-- **Practical AI integration:** exploring where AI can add measurable value to real workflows.
-
-## 05 / GitHub signal
-
-The cards below are generated by a community-maintained service using public GitHub data. They may be delayed or unavailable, and language distribution reflects repository contents — not a complete measure of skill.
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aszq0&show_icons=true&hide_border=true&bg_color=08090B&title_color=F5F5F2&text_color=C8CBD0&icon_color=7D1835&ring_color=7D1835" alt="Public GitHub statistics for aszq0" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aszq0&layout=compact&hide_border=true&bg_color=08090B&title_color=F5F5F2&text_color=C8CBD0" alt="Most-used languages in public repositories for aszq0" />
-
-</div>
-
-[View my GitHub profile and repositories](https://github.com/aszq0)
-
-## 06 / Connect
-
-- **GitHub:** [github.com/aszq0](https://github.com/aszq0)
-- **Portfolio:** [ADD_PORTFOLIO_URL]
-- **LinkedIn:** [ADD_LINKEDIN_URL]
-- **Email:** [ADD_PUBLIC_CONTACT_EMAIL — optional]
-
-For professional inquiries, please use a contact channel once it has been added above.
+**Status:** Planning and analysis.
 
 ---
 
-<div align="center">
+### Khadamati — Services Platform
 
-**Curiosity in the process. Craft in the details. Technology that serves a purpose.**
+A project concept focused on making it easier for users to discover and request services through a digital platform.
 
-<sub>AQ Technology · Ahmed Saleh Qusailah · Yemen</sub>
+**Project focus**
+- Service discovery.
+- A clearer service-request experience.
+- Organizing the interaction between customers and service providers.
 
-</div>
+**Status:** Project details and implementation stack to be documented.
+
+---
+
+### Rashfah — Coffee Application
+
+A coffee-related application concept focused on presenting coffee options and improving the user's coffee-discovery experience.
+
+**Project focus**
+- Coffee-related content and product discovery.
+- A user-friendly mobile experience.
+- Exploring application authentication and backend integration where appropriate.
+
+**Status:** Development details and implemented features to be documented.
+
+---
+
+## `04` — Currently Exploring
+
+- Mobile application development with Flutter.
+- Backend development and RESTful API design.
+- Database design and relational data modeling.
+- Software analysis and system architecture.
+- Authentication, application security, and backend integration.
+- Writing maintainable code and organizing projects effectively.
+
+---
+
+## `05` — GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aszq0&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E05270&icon_color=E05270&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aszq0&layout=compact&hide_border=true&bg_color=0D1117&title_color=E05270&text_color=C9D1D9" height="165" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aszq0&hide_border=true&background=0D1117&ring=E05270&fire=E05270&currStreakLabel=E05270&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="80%" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## `06` — Development Philosophy
+
+```text
+Learn      → Understand the fundamentals.
+Build      → Turn knowledge into working projects.
+Test       → Find problems and improve reliability.
+Refine     → Make the solution clearer and better.
+Repeat     → Keep growing through practice.
+```
+
+I value steady progress over shortcuts and practical learning over simply collecting technologies.
+
+---
+
+## `07` — Let's Connect
+
+I'm interested in learning, exchanging technical knowledge, and connecting with people who enjoy building useful software.
+
+<p align="center">
+  <a href="https://github.com/aszq0">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-161B22?style=for-the-badge&logo=github" alt="GitHub profile"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Designed with a focus on clarity, craftsmanship, and continuous improvement.</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=8B1E3F" width="100%" alt="" />
+</p>
