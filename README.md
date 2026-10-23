@@ -1,16 +1,139 @@
-## Hi there 👋
-
 <!--
-**aszq0/aszq0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AQ TECHNOLOGY — PROFILE README
+Brand palette:
+  Technical Black  #08090B
+  Deep Maroon      #7D1835
+  Pearl White      #F5F5F2
+  Silver Gray      #C8CBD0
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Before publishing:
+1. Replace every [ADD ...] placeholder.
+2. Only enable the banner image after uploading your own banner asset.
+3. Project repositories and demos are intentionally not linked until verified.
 -->
+
+<div align="center">
+
+<!-- OPTIONAL CUSTOM BANNER
+Upload a banner to this profile repository (recommended path: assets/aq-profile-banner.png),
+then uncomment the next line and keep the path accurate.
+
+<img src="assets/aq-profile-banner.png" alt="AQ Technology — black and deep-maroon technical banner" width="100%" />
+-->
+
+<img src="https://img.shields.io/badge/AQ_TECHNOLOGY-08090B?style=for-the-badge&labelColor=7D1835&color=08090B" alt="AQ Technology" />
+
+# Ahmed Saleh Qusailah
+
+### Building ideas into technology — one deliberate line at a time.
+
+**IT Student · Software Developer · Technology Enthusiast**
+
+Yemen · Building with curiosity, practical projects, and a focus on useful software.
+
+[GitHub](https://github.com/aszq0) · [Portfolio](ADD_PORTFOLIO_URL) · [LinkedIn](ADD_LINKEDIN_URL)
+
+</div>
+
+---
+
+## 01 / The person behind the code
+
+I’m an Information Technology student interested in turning ideas into practical digital products. I learn by exploring technologies, building projects, solving problems, and improving the way software is designed and developed.
+
+My focus is on creating software that is useful, maintainable, and thoughtfully built — from application interfaces and backend services to data and system design.
+
+I’m still learning, and I treat every project as an opportunity to strengthen the fundamentals.
+
+## 02 / Technology ecosystem
+
+The tools below reflect technologies I have explored or used in coursework and personal projects. They are not intended to imply expert-level proficiency.
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,php,dart,js" alt="C++, Python, PHP, Dart, and JavaScript" />
+</p>
+
+**Web and application development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,laravel,flutter" alt="HTML, CSS, Laravel, and Flutter" />
+</p>
+
+**Data, development tools, and workflow**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL, Git, GitHub, and Visual Studio Code" />
+</p>
+
+## 03 / Selected work
+
+These are projects and concepts I have explored. Repository links, demos, and implementation status will be added only when the relevant public resources are available.
+
+### Smart Building Platform
+A construction-sector platform concept intended to connect clients with building-material suppliers and engineering services. The proposed direction includes material-price discovery, supplier locations, and assistance with estimating quantities from building measurements or plans.
+
+- **Status:** Project concept / development planning
+- **Planned stack:** Flutter, Laravel REST API, MySQL, Google Maps API
+- **Repository:** [ADD_SMART_BUILDING_REPOSITORY_URL]
+- **Demo:** Not available yet
+
+### Khadamati
+A services-platform project focused on helping people discover and access services through a digital product.
+
+- **Status:** Project in progress / implementation status to be updated
+- **Technology:** [ADD_CONFIRMED_KHADAMATI_STACK]
+- **Repository:** [ADD_KHADAMATI_REPOSITORY_URL]
+- **Demo:** [ADD_KHADAMATI_DEMO_URL_OR_REMOVE_THIS_LINE]
+
+### Rashfah
+A coffee-related application concept focused on presenting a polished, convenient digital experience for coffee customers.
+
+- **Status:** Project in progress / implementation status to be updated
+- **Technology:** Flutter and [ADD_CONFIRMED_BACKEND_OR_AUTH_TOOLS]
+- **Repository:** [ADD_RASHFAH_REPOSITORY_URL]
+- **Demo:** [ADD_RASHFAH_DEMO_URL_OR_REMOVE_THIS_LINE]
+
+> Project descriptions distinguish planned direction from confirmed implementation. Update the status and technology details as each project evolves.
+
+## 04 / Currently exploring
+
+- **Flutter:** structuring mobile applications and refining user experiences.
+- **Laravel and REST APIs:** organizing backend logic and connecting applications to services.
+- **Database design:** modeling data and building clear, consistent schemas.
+- **Software engineering:** requirements analysis, UML, ER diagrams, and system architecture.
+- **Practical AI integration:** exploring where AI can add measurable value to real workflows.
+
+## 05 / GitHub signal
+
+The cards below are generated by a community-maintained service using public GitHub data. They may be delayed or unavailable, and language distribution reflects repository contents — not a complete measure of skill.
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aszq0&show_icons=true&hide_border=true&bg_color=08090B&title_color=F5F5F2&text_color=C8CBD0&icon_color=7D1835&ring_color=7D1835" alt="Public GitHub statistics for aszq0" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aszq0&layout=compact&hide_border=true&bg_color=08090B&title_color=F5F5F2&text_color=C8CBD0" alt="Most-used languages in public repositories for aszq0" />
+
+</div>
+
+[View my GitHub profile and repositories](https://github.com/aszq0)
+
+## 06 / Connect
+
+- **GitHub:** [github.com/aszq0](https://github.com/aszq0)
+- **Portfolio:** [ADD_PORTFOLIO_URL]
+- **LinkedIn:** [ADD_LINKEDIN_URL]
+- **Email:** [ADD_PUBLIC_CONTACT_EMAIL — optional]
+
+For professional inquiries, please use a contact channel once it has been added above.
+
+---
+
+<div align="center">
+
+**Curiosity in the process. Craft in the details. Technology that serves a purpose.**
+
+<sub>AQ Technology · Ahmed Saleh Qusailah · Yemen</sub>
+
+</div>
