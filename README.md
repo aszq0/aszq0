@@ -1,5 +1,4 @@
-<div align="center">
-<h1>Ahmed Qusailah</h1> 
+# Ahmed Qusailah
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=E05270&center=true&vCenter=true&width=650&lines=Software+Developer;IT+Student;Building+Ideas+Into+Technology;Learn.+Build.+Improve." alt="Typing animation" />
